@@ -1,2 +1,2 @@
-Link for the Live Projec: <br>
+Link for the Live Project: <br>
 https://poornartha.github.io/WeatherWidget/
